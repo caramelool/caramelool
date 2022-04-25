@@ -8,9 +8,6 @@ Mobile is my passion ❤️
 * 🧠  I'm learning about mobile performance, compose, golang
 * 🤝  I'm open to collaborating on mobile(android) projects, golang projects
 
-<a href="https://www.github.com/caramelool" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/caramelool?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
-
 ### Skills
 
 <p align="left">
